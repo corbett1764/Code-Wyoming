@@ -1,0 +1,13 @@
+* {padding: 0px; margin: 0px;}
+a{text-decoration: none; color: white}
+ul{list-style-type:none; margin:0; padding:0;} 
+li{display:inline;}
+p{padding-bottom: 15px;}
+
+body{background-color: #555; color: white; font-family:sans-serif;}
+
+.menubox{border-color: #bbf; border-width: thin; background-color: #446; padding:10px;}
+.smallbox{border-color: #bbf; border-width: thin; float:left;}
+.iconbar{float:right; color: #bbf;}
+.content{padding: 10px;}
+img{padding: 0px; margin: 0px; border: 0px; width: 100%;}

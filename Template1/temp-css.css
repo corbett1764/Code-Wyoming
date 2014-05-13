@@ -1,0 +1,18 @@
+body{color:white; background-color: #bad455;}
+
+p{align-content: center; text-indent: 3em; font-family: Metrophobic, Arial, serif; font-weight: 400;}
+nav{padding: 15px;}
+nav a{border: 2px; border-color: black; background-color: #351; padding: 6px; border-radius: 12px; color: #eee; text-decoration: none; box-shadow: 5px 5px 5px black;}
+
+header{background-image: url(http://fillmurray.com/800/200)}
+h1{text-align: center; text-shadow: 5px 5px 5px black; line-height: 2em; font-family: fantasy;}
+h2{align-self:center; font-family: fantasy;}
+ul,ol,dl{font-weight:700; padding-left: 50px; color: black;}
+
+.left{color: green; background-color: white; border: 3px; padding: 2px 15px 2px;}
+.middle{color: red; background-color: white; border: 3px; padding: 2px 15px 2px; }
+.right{color: blue; background-color: white; border: 3px; padding: 2px 15px 2px; background-image: url(http://fillmurray.com/600/200); background-repeat: round; background-size:cover}
+.sidebar{color:inherit; background-color: inherit; border: 3px; padding: 2px 15px 2px;}
+.boldtitle{font-style: italic; color: grey;}
+body p{color: #666;}
+body p.target{color: #000}
